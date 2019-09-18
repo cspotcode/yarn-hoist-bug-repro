@@ -1,0 +1,7 @@
+{
+    "name": "@cspotcode/yarn-hoist-bug-example-subpackage",
+    "version": "0.0.0",
+    "dependencies": {
+        "find-up": "^4"
+    }
+}

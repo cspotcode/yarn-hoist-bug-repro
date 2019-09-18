@@ -1,0 +1,9 @@
+{
+  "workspaces": [
+    "packages/!(__template__)"
+  ],
+  "private": true,
+  "dependencies": {
+    "@cspotcode/yarn-hoist-bug-example-subpackage": "latest"
+  }
+}
